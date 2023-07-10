@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import Image from 'next/image'
-import pesoBruto from '@/img/pesoBruto.jpeg'
+import pesoBruto from '../img/pesoBruto.jpeg'
 import bgPesado from '../img/bgPesado.jpg'
 import bgCaminhao from '../img/bgCaminhao.jpg'
 import bgPesado3 from '../img/bgPesado3.jpeg'
