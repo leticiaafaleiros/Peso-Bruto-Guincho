@@ -28,7 +28,7 @@ export default function Contact() {
 
               <div className="flex justify-center text-2xl">
                 <a
-                  href="https://web.whatsapp.com/send?phone=5516993896054"
+                  href="https://wa.me/5516993896054"
                   className="flex justify-center mt-10 mb-16 rounded-full bg-black text-white w-60 hover:bg-green-600 animate-pulse"
                 >
                   <svg
